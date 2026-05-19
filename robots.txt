@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wantmustcan-wq.github.io/sitemap.xml
-Sitemap: https://wantmustcan-wq.github.io/news-sitemap.xml
+Sitemap: https://wantmustcan-wq.github.io/aivia/sitemap.xml
